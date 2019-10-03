@@ -1,4 +1,4 @@
-# Chitter API 
+# Chitter- frontend 
 # Chitter API Frontend Challenge
 
 * Challenge time: rest of the day and weekend, until Monday 9am
@@ -23,7 +23,7 @@ Here are some interactions the API supports. Implement as many as you see fit.
 * Creating Users
 * Logging in
 * Posting Peeps
-* Viewing all Peeps *(I suggest you start here)*
+* Viewing all Peeps
 * Viewing individual Peeps
 * Deleting Peeps
 * Liking Peeps
